@@ -8,7 +8,7 @@
       "type": "info",
       "URL": "#",
       "attributes": {
-        "onload": "window.location.replace('https://google.com')"
+        "onclick": "window.location.replace('https://google.com')"
       }
     }
   ]
