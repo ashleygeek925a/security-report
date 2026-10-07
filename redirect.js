@@ -2,8 +2,7 @@
   "autoLoad": true,
   "pitch": 0,
   "yaw": 0,
-  "basePath": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiPjwvc3ZnPg==",
-  "panorama": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiPjwvc3ZnPg==",
+  "panorama": "https://pannellum.org/images/cerro-toco-0.jpg",
   "hotSpots": [
     {
       "pitch": 0,
